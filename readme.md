@@ -1,6 +1,6 @@
 <!-- ds header -->
 <div align="center">
- <img src="https://avatars2.githubusercontent.com/u/47264008?s=200&v=4" width="100px">
+ <img src="https://avatars2.githubusercontent.com/u/47264008?s=200&v=4" width="80px">
  <h3>Data Science for Health-related Data </h3>
  <hr/>
  <a href="https://github.com/datasci4healt" target="_blank">
