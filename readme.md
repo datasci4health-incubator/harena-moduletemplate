@@ -2,7 +2,6 @@
 <div align="center">
  <img src="https://avatars2.githubusercontent.com/u/47264008?s=200&v=4" width="80px">
  <h3>Data Science for Health-related Data </h3>
- <hr/>
  <a href="https://github.com/datasci4healt" target="_blank">
    <img src="https://raw.githubusercontent.com/thedatasociety/binderhub-template/master/resources/images/github-icon.png" width="30px" alt="github organization">
  </a>
@@ -15,6 +14,8 @@
  <a href="https://twitter.com/" target="_blank">
    <img src="https://raw.githubusercontent.com/thedatasociety/binderhub-template/master/resources/images/twitter-icon.png" width="30px" alt="our twitter">
  </a>
+ <hr/>
+ 
 </div>
 <!-- /ds header -->
 
