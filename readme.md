@@ -15,8 +15,6 @@
  <a href="https://twitter.com/" target="_blank">
    <img src="https://raw.githubusercontent.com/thedatasociety/binderhub-template/master/resources/images/twitter-icon.png" width="30px" alt="our twitter">
  </a>
- <hr/>
- 
 </div>
 <!-- /ds header -->
 
