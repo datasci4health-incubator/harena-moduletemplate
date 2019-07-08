@@ -2,6 +2,7 @@
 <div align="center">
  <img src="https://avatars2.githubusercontent.com/u/47264008?s=200&v=4" width="80px">
  <h3>Data Science for Health-related Data </h3>
+ <h1></h1>
  <a href="https://github.com/datasci4healt" target="_blank">
    <img src="https://raw.githubusercontent.com/thedatasociety/binderhub-template/master/resources/images/github-icon.png" width="30px" alt="github organization">
  </a>
